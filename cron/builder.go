@@ -2,7 +2,7 @@ package cron
 
 import (
 	"fmt"
-	"github.com/open-falcon/alarm/g"
+	"github.com/timercrack/alarm/g"
 	"github.com/open-falcon/common/model"
 	"github.com/open-falcon/common/utils"
 )

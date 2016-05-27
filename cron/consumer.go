@@ -2,9 +2,9 @@ package cron
 
 import (
 	"encoding/json"
-	"github.com/open-falcon/alarm/api"
-	"github.com/open-falcon/alarm/g"
-	"github.com/open-falcon/alarm/redis"
+	"github.com/timercrack/alarm/api"
+	"github.com/timercrack/alarm/g"
+	"github.com/timercrack/alarm/redis"
 	"github.com/open-falcon/common/model"
 	"log"
 )

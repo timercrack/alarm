@@ -2,7 +2,7 @@ package api
 
 import (
 	"fmt"
-	"github.com/open-falcon/alarm/g"
+	"github.com/timercrack/alarm/g"
 	"github.com/toolkits/container/set"
 	"github.com/toolkits/net/httplib"
 	"log"

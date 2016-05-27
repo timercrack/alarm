@@ -2,7 +2,7 @@ package redis
 
 import (
 	"encoding/json"
-	"github.com/open-falcon/alarm/g"
+	"github.com/timercrack/alarm/g"
 	"github.com/open-falcon/sender/model"
 	"log"
 	"strings"
